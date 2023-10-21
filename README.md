@@ -1,4 +1,4 @@
-# animations_practice
+# Animations Flutter
 
 A new Flutter project.
 
